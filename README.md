@@ -5,3 +5,7 @@
 ## package manager
 
 pnpm
+
+## 依赖注入
+
+* 一种设计模式
